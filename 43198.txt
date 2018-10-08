@@ -1,10 +1,13 @@
 The Project Gutenberg EBook of Samuel Boyd of Catchpole Square, by
 B. L. (Benjamin Leopold) Farjeon
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
 
 
 Title: Samuel Boyd of Catchpole Square
@@ -13,6 +16,7 @@ Title: Samuel Boyd of Catchpole Square
 Author: B. L. (Benjamin Leopold) Farjeon
 
 Release Date: July 12, 2013 [EBook #43198]
+Last Updated: August 16, 2015
 
 Language: English
 
@@ -25,8 +29,6 @@ Character set encoding: ASCII
 
 Produced by Charles Bowen from page images provided by
 Google Books. (New York Public Library)
-
-
 
 
 
@@ -276,7 +278,7 @@ fish. Here was a massive safe fast bedded in the wall and securely
 locked; here a grand piano, locked; here weapons and armour of all
 nations, and pictures in which lay dumb stories of fruitless genius
 and disappointed ambition; here pieces of valuable china and
-_bric-a-brac_; here some dozens of wine of a rare vintage; here
+_bric-A -brac_; here some dozens of wine of a rare vintage; here
 hangings of old tapestry; here (the oddest feature in the
 heterogeneous collection) a waxwork figure, holding in its
 outstretched hand a cane stick of the reign of Charles the Second;
@@ -1986,7 +1988,7 @@ you haven't saved a penny--eh?" The young man made no reply, and
 Inspector Robson cried, half angrily, half admiringly, "What business
 had you to be making us presents and bringing things home for Aunt Rob
 and me and Florence when you ought to have been looking after
-yourself? What did you do it for?' Here's Dick brought home an immense
+yourself? What did you do it for? 'Here's Dick brought home an immense
 turkey,' says Aunt Rob to me at Christmas; and at other times, 'Here's
 that stupid Dick brought home a couple of chickens, or a veal and ham
 pie,' and I don't know what all. 'I wish,' says Aunt Rob, 'that you'd
@@ -2385,7 +2387,7 @@ therefore drank first, deep sighs of satisfaction betokening her
 gratitude. Refilling the cup Inspector Robson handed it to Gracie,
 who, before she put it to her lips, said, in her best society manner,
 
-"'To you and yours, sir, and gentlemen all, and may none of you ever
+"To you and yours, sir, and gentlemen all, and may none of you ever
 feel the want of it. The Lord make us truly thankful! Hallelujah!"
 
 A form of grace which, but for the pathetic side of the picture, might
@@ -3310,7 +3312,7 @@ furnished for Dick's requirements.
 
 "We can do that, sir. Pond had an extra one made on purpose. 'If it's
 a gentleman,' he said, 'let him have it. If it's a lady she can't have
-a latchkey, no, not if she begged for it on her bended knees."
+a latchkey, no, not if she begged for it on her bended knees.'"
 
 "I'll take the room, Mrs. Pond," said Dick, with a genial smile, "and
 I'll give you a week's rent in advance, if it's only for the
@@ -3769,7 +3771,7 @@ clue which may lead to something."
 "You'll be back as soon as you can, won't you? Your room is all
 ready."
 
-"'I know. Uncle Rob told me. But I can't come back to-night."
+"I know. Uncle Rob told me. But I can't come back to-night."
 
 "Oh, Dick, haven't you forgiven me for the hard words I said to you?
 Don't harbour animosity, lad, don't! My temper got the better of
@@ -4550,7 +4552,7 @@ was demanded. So absolutely imperative was it that he should be
 convinced that the house was uninhabited before he forced an entrance
 that he kept in the Square fully a quarter of an hour, at the
 expiration of which he passed through Deadman's Court, and was once
-more in front of the dead wall Stealing to each end of the
+more in front of the dead wall. Stealing to each end of the
 thoroughfare to see that no person was in view, he unwound the rope
 from his body, and fixed upon the spot to fling the grapnel. The first
 throw was unsuccessful; and the second; but at the third the grapnel
@@ -4576,7 +4578,7 @@ rope drop on the inner side of the wall, and slid nimbly down.
 He looked around. There were windows at the back, most of them masked
 with inside shutters, as they had been for years. To each of the six
 houses there was a back yard, and each yard was separated from its
-neighbour on either side by a wall as high as high as that which
+neighbour on either side by a wall as nigh as high as that which
 enclosed them all in the rear. Thus Dick found himself shut out from
 the world, as it were, with little likelihood of his movements being
 detected from any of the houses except the one he intended to break
@@ -5090,7 +5092,7 @@ believed he knew why the name was not mentioned.
 "What is your letter about, Dick?"
 
 He opened it, read it hurriedly, and did not betray the agitation it
-caused him. "A private letter, aunt, from an old friend. Has Uncle Bob
+caused him. "A private letter, aunt, from an old friend. Has Uncle Rob
 got another day's leave of absence from the office?"
 
 "No; he must go back to his duty to-night. He wanted to see you
@@ -5308,7 +5310,7 @@ part, left the room.
 effort to finish the sentence before the cough commenced. It lasted a
 long time, but Dick, supporting her in his arms, was glad to hear that
 it was looser. Then she whispered to him again, "Don't let 'em hear
-us, Dick. Say Damn!
+us, Dick. Say Damn!"
 
 "Damn!" said Dick, without the least hesitation.
 
@@ -6088,7 +6090,7 @@ Wharton if I were not."
 "Not at all. You are the dearest fellow! I shall be almost ashamed to
 ask you for another cheque to-morrow."
 
-"Don't. Stumped"
+"Don't. Stumped."
 
 "Next week, then?" He nods. She casts a critical look around. "Our
 most brilliant gathering, I think."
@@ -6322,7 +6324,7 @@ lasted till midnight.
 
 The manner of "The Little Busy Bee's" buzzing in its preliminary
 editions was as follows: First, a quotation in large type from
-"Macbeth." "And one cried, Murder!" Then half a column of the usual
+"Macbeth." And one cried, "Murder!" Then half a column of the usual
 sensational headings. Then the account of the daring scheme and the
 discovery in the following fashion:
 
@@ -8532,7 +8534,7 @@ fog."
 "Has my name been mentioned?" asked Florence, in alarm.
 
 "No, but it may be, and we must consider what we ought to do. Don't
-look distressed; a straightforward explanation will set it right. Docs
+look distressed; a straightforward explanation will set it right. Does
 Uncle Rob know you went there?"
 
 "No."
@@ -9172,7 +9174,7 @@ had replaced what he found in them."
 The Juror who had asked previous questions: "How do you know that?"
 
 "He told me so. The watch and chain had not been taken, and there was
-money in his purse, a L5 note and some gold and silver, L9 18s. in
+money in his purse, a AL5 note and some gold and silver, AL9 18s. in
 all. I opened the safe; there were no articles of value in it. If
 there had been any before the death of the deceased they had been
 removed, and the key put back in its original place."
@@ -9337,7 +9339,7 @@ understanding I left him. Two days afterwards it was brought to my
 recollection that Mr. Boyd had not returned the old bills, and I wrote
 to him about them. At the same time I mentioned that I needed a much
 larger sum for my private personal use than we had arranged for, and I
-requested him to bring L1,500, promising to give him further security
+requested him to bring AL1,500, promising to give him further security
 in the shape of additional jewels, for there is only one way of
 dealing with these Shylocks: they _must_ have their pound of flesh. He
 replied that he would bring the money and the old bills on Thursday
@@ -9350,11 +9352,11 @@ had appointed, and there I saw Mr. Samuel Boyd. I asked him if he had
 brought the money; he answered that he had, and he produced a small
 packet, which he declined to part with till I gave him the additional
 jewels I had promised as security. The scoundrel assumed an air of
-saucy independence which completely deceived me The jewels were in the
+saucy independence which completely deceived me. The jewels were in the
 house, and Lord Fairfax happening to be passing at that moment I
 called to him and requested him to remain with Mr. Boyd while I went
 to fetch them. When I returned I gave them to Mr. Boyd, who then
-handed me the packet, saying that it contained the L1,500 in bank
+handed me the packet, saying that it contained the AL1,500 in bank
 notes and the old bills. As I could not count the money in the grounds
 I went to the house again, accompanied by Lord Fairfax, and opening
 the packet, discovered that I had been robbed. There were no bills
@@ -9607,7 +9609,7 @@ Reginald: "Thank you, Mr. Coroner, I prefer to stand."
 "As you please. We understand that you went to your father's house in
 Catchpole Square to see the body of the deceased?"
 
-"Yes, I went there on Sunday.'
+"Yes, I went there on Sunday."
 
 "You saw the body?"
 
@@ -9722,7 +9724,7 @@ the natural desire to see him?"
 not improve them. My mother had left me a small fortune, and had
 appointed a trustee to administer it. This trustee had given me to
 understand that when I was of age I should come into possession of
-L8,000. I spent my youth and early manhood abroad, and when I returned
+AL8,000. I spent my youth and early manhood abroad, and when I returned
 home my trustee was dead, and my father had the disposition of my
 inheritance. He wished me to join him in his business, but I had a
 distaste for it, and we had many arguments and discussions on the
@@ -9861,7 +9863,7 @@ The Juror: "Angry words passed between you and your father?"
 "On his?" (A momentary pause.) "I do not insist upon a reply."
 
 "Oh, I will reply. My father threatened to bring an action against me
-for a balance of L1,200, which he said was due to him on the account."
+for a balance of AL1,200, which he said was due to him on the account."
 
 "You disputed the correctness of the account?"
 
@@ -9998,7 +10000,7 @@ feature of the inquiry a terrifying presage. Presently the officer
 returned, followed by Dr. Pye.
 
 The new witness was tall, with a slight stoop in his shoulders, his
-face was ashen gray, his brows knit and concentrated, his eyes
+face was ashen grey, his brows knit and concentrated, his eyes
 habitually downcast, but, when raised, irradiated with a keen steady
 light, giving one the impression that the pupils might be of steel,
 which was indeed their colour, his mouth with its thin long lips
@@ -10431,7 +10433,7 @@ chalk is to cheese."
 
 "What is not like him?" inquired Dick.
 
-"'Is pictcher, sir, and yours, too, sir,' I ses to Mrs. Porter, the 'am
+"''Is pictcher, sir, and yours, too, sir,' I ses to Mrs. Porter, the 'am
 and beef shop across the road, 'It's a shame,' I ses, 'that sech
 things is allowed. If a portrait it is, a portrait it ought to be.
 Actions 'ave been brought for less.' 'Wot you say, Mrs. Weevil, I
@@ -11064,7 +11066,7 @@ room--its door closed, its one window so closely shuttered that not a
 chink of light could be discerned from without--the hum of crowded
 life from the outer street penetrated it and droned like an exhausted
 bee. Dr. Pye listened, smiled contemptuously, and gazed around upon
-the precious bronzes and ivories, the rare _bric-a-brac_, the
+the precious bronzes and ivories, the rare _bric-A -brac_, the
 exquisite enamels, the books with jewelled bindings, which were so
 arranged that their beauties were seen at a glance. Not one of these
 examples was of the new school of art; all belonged to times when form
@@ -11852,7 +11854,7 @@ Florence, with the sweet thought in her mind, "Dick's told 'em a lot
 about me, and everything that's good!"
 
 Breakfast over, they took Gracie upstairs, Aunt Rob saying, "Dick 'll
-be here when we come down, my dear "; and in the bedroom above they
+be here when we come down, my dear"; and in the bedroom above they
 took off her frock and slipped a warm undervest over the bony chest,
 and another over that, and found a pair of thick stockings that had
 once been worn by a child, and a child's flannel petticoat, and other
@@ -11924,8 +11926,8 @@ proceeds of his crime.
 Meanwhile the men of the family had been having a discussion below
 which had led to the withdrawal of Uncle Rob from the council. The
 first point discussed was the amount of the rewards to be offered.
-Reginald wished it to be large, and, supported by Dick, suggested L500
-for the discovery and conviction of the murderer, and L200 for the
+Reginald wished it to be large, and, supported by Dick, suggested AL500
+for the discovery and conviction of the murderer, and AL200 for the
 discovery of Abel Death. Uncle Rob opposed this, and contended that
 much smaller sums would be sufficient, bringing forward instances
 where the offer of disproportionate rewards had been the cause of
@@ -11940,9 +11942,9 @@ got together a lot of stuff to assist me. I made a muddle of the
 story, and when I was in the middle of it I gave it up. Do you
 remember this case, uncle?"
 
-He held up a poster offering a reward of L100 for the discovery of a
+He held up a poster offering a reward of AL100 for the discovery of a
 murderer. At the top of the bill was the Royal Coat-of-Arms, beneath
-it, in large type, the word MURDER, and beneath that "L100 Reward."
+it, in large type, the word MURDER, and beneath that "AL100 Reward."
 
 "I remember it well," said Uncle Rob. "That was the Great Porter
 Square Mystery. It caused great excitement at the time, and the papers
@@ -12302,7 +12304,7 @@ At the top the figure of even-handed Justice; then--
                       _IN THE CAUSE OF JUSTICE_.
 
                               _MURDER_.
-                            _L500 REWARD_.
+                            _AL500 REWARD_.
 
 
 _Whereas, on the Morning of Saturday, the 9th of March, the Dead Body
@@ -12382,12 +12384,12 @@ days of huge and startling advertisements on the walls--not the least
 conspicuous of which are the lank figures of blue or scarlet females
 in outrageous costumes and impossible postures, the product of a
 mischievous school of impressionists--even amidst these monstrous
-parodies of art a double-demy poster offering a reward of L500 for the
+parodies of art a double-demy poster offering a reward of AL500 for the
 discovery of a Murderer is certain to command an audience. So it was
 natural enough that a little crowd should gather, and that eager
 comments and opinions should be exchanged.
 
-"That's a big reward. L500!" "Ought to have been offered before.
+"That's a big reward. AL500!" "Ought to have been offered before.
 What's that picture on the top? Justice, eh, holding the scales? If
 she's anything like that, _I_ don't think much of her. Anyway I wish I
 knew where to lay hands on the man that murdered Samuel Boyd. Set me
@@ -12397,7 +12399,7 @@ you'll find there's a regular gang, with Abel Death at the head of
 yesterday----" "Oh, a detective. Much good _they_ are!" "I say, don't
 you consider it a rum go that Mr. Reginald Boyd should be offering the
 reward? Why, there's any number of people says _he_ did it." "How can
-that be when he says he's willing to pay L500 for the discovery and
+that be when he says he's willing to pay AL500 for the discovery and
 conviction?" "Ah, but that might be a plant, you know. They've been
 that cunning from first to last that there's no saying what they
 mightn't be up to." "What comes over me is what they've done with Lady
@@ -12549,7 +12551,7 @@ and I buys 'em all, and has 'em all read out to me, word for word, and
 if you'll believe me there ain't a word in one of 'em about the use
 that Mr. Dick Remington makes of the rope and grapnel he bought of a
 honest tradesman as sweats hisself thin to get a living, and then
-can't get it. That's what I call a coinci-dence. What do you call it?"
+can't get it. That's what I call a coinci-dence. What do _you_ call it?"
 
 "I call it a coinci-dence, too," said Dick, with a searching gaze at
 the disreputable figure, "especially when it happens to an honest
@@ -12783,7 +12785,7 @@ offering no comment on these expressions of opinion, "and I don't see
 no mention of it in that there blooming bill."
 
 "It's what they put in the Government bills," said the second man,
-"but this ain't a Government bill. It's a reward of L500 offered by a
+"but this ain't a Government bill. It's a reward of AL500 offered by a
 private individual."
 
 "A private individual!" sneered the first speaker. "You don't call Mr.
@@ -12993,7 +12995,7 @@ yet forthcoming. The bills are appropriately headed "In the Cause of
 Justice," and it is to be hoped that they will assist the cause of
 justice. We make no comment upon the circumstance that Mr. Reginald
 Boyd, at whose instance this step has been taken, has made himself
-responsible for the payment of L500 in the one case and L200 in the
+responsible for the payment of AL500 in the one case and AL200 in the
 other. The argument that it will stimulate persons to recall
 apparently insignificant details in connection with the movements of
 the guilty parties, and to make them public, is sound, for important
@@ -13539,7 +13541,7 @@ for the evidence of Mrs. Abel Death which, in point of time, is in
 direct conflict with that of Dr. Pye, I should be addressing you in
 different terms, so far as Mr. Reginald Boyd is concerned. Here we are
 confronted with a most singular discrepancy. Dr. Pye states that he
-saw a man issue from Mr. Samuel Boyd's house a three o'clock in the
+saw a man issue from Mr. Samuel Boyd's house at three o'clock in the
 morning. Mrs. Abel Death states that she was in Catchpole Square from
 half past two till half past three on the same morning, and that
 during the whole of that time the door of Mr. Boyd's house was not
@@ -13618,9 +13620,9 @@ Wharton and endorsed by Lord Fairfax, omitted to hand back the old
 bills for which the new ones were given in exchange. She writes to Mr.
 Boyd, she being then in Bournemouth and he lying dead in London. In
 her letter she requests him to bring the old bills to Bournemouth, and
-also requests that the loan of L1,000 already arranged between them,
+also requests that the loan of AL1,000 already arranged between them,
 for which she had deposited jewels as security, should be increased to
-L1,500, promising, for the additional L500, to hand him other jewels
+AL1,500, promising, for the additional AL500, to hand him other jewels
 as security when they meet in Bournemouth. The letter written and
 posted, is left by the postman in the post box of Mr. Boyd's house in
 Catchpole Square. And here we are brought face to face with the
@@ -13871,10 +13873,10 @@ stopping before a house of decent pretensions and opening the door
 with his own private latchkey. There was a little brass plate attached
 to the side of the door, and creeping past it Gracie read on it the
 name, "Ezra Lynn," and beneath it in smaller letters the announcement,
-"Sums of from L5 to L15,000 advanced at a low rate of interest on
+"Sums of from AL5 to AL15,000 advanced at a low rate of interest on
 promissory note alone, without any sureties or security whatever, and
 without any beforehand charges. The strictest privacy and secrecy
-observed." Gracie's eyes dilated at the magnitude of the sum, L15,000,
+observed." Gracie's eyes dilated at the magnitude of the sum, AL15,000,
 and for a moment her idea was that Dr. Vinsen had gone into the house
 to borrow that amount; the next moment she fell to speculating upon
 the strange circumstance that Dr. Vinsen should possess a private
@@ -14110,7 +14112,7 @@ difference of opinion among the jury, who held such strong views upon
 certain aspects of the case, that it was doubtful whether any definite
 verdict would be arrived at.
 
-"The Coroner: 'There must be a verdict of some kind I presume there is
+"The Coroner: 'There must be a verdict of some kind. I presume there is
 no doubt in your minds that a murder has been committed?'
 
 "The Foreman: 'None whatever. We are agreed upon that.'
@@ -14179,7 +14181,7 @@ Detective Lambert came up and spoke to him.
 reward bills. He's the kind of chap that nothing comes amiss to; an
 all-round sort of chap; can turn his hand to anything. Just think of a
 young fellow like that turning bill-sticker. Not at all a bad move.
-It's a lumping reward, L500. Do you know what he said to me? 'Why not
+It's a lumping reward, AL500. Do you know what he said to me? 'Why not
 earn it?' says he, and says it as if he meant it."
 
 "He wouldn't have said it if he hadn't meant it."
@@ -14359,7 +14361,7 @@ there's only one man in England that's got his finger on the pulse of
 the mystery, and that's the man that's talking to you now, and taking
 you, in a manner of speaking, into his confidence."
 
-"Ana that is why you are going to arrest my son-in-law," said Uncle
+"And that is why you are going to arrest my son-in-law," said Uncle
 Rob, rather bitterly.
 
 "And that is why," said Lambert, cheerfully, "I am going to arrest
@@ -14398,8 +14400,9 @@ Lambert, my own child! To strike a death blow at my own child!"
 "Who's talking of death blows? Pull yourself together. It's better so;
 you can make things easier for him. As for forgiveness, they're not
 the women I take them for if they harbour a thought against you.
-They're true grit, that's what they are." "There's something going on
-in Court."
+They're true grit, that's what they are."
+
+"There's something going on in Court."
 
 They hurried in together, and were present at another altercation
 between Coroner and jury, the leading actors in it being, as before,
@@ -14656,7 +14659,7 @@ objection."
 "Let's hear what it is," said Mr. Rawdon, upon whom the detective's
 words did not seem to have a soothing effect.
 
-"'It's a question," continued Lambert, "that I wouldn't put to you
+"It's a question," continued Lambert, "that I wouldn't put to you
 publicly if it wasn't that we're playing a sort of game, you and me, a
 sort of trying to tire one another out, because, you know, Mr. Rawdon,
 there's many a thing in a man's life he'd prefer to keep to himself.
@@ -14803,7 +14806,7 @@ are at the station."
 
 He made a secret motion to his uncle as they entered, and saying to
 the others that they would join them presently, he and the Inspector
-retired to a small room at the back of the office, where the latter.
+retired to a small room at the back of the office, where the latter
 kept his accoutrements, which he now proceeded to put on for the sad
 duties of the night.
 
@@ -15306,7 +15309,7 @@ will proclaim it to all the world.'"
 observation I desire to make is this. No one can be more anxious than
 the accused that the fullest light should be thrown upon this sad
 affair, and that the murderer of his father shall be brought to
-justice. He himself has offered a reward of L500 for the discovery of
+justice. He himself has offered a reward of AL500 for the discovery of
 the murderer. But we enter a strong protest to any unnecessary delay
 in the disclosure of the evidence we have to combat. To arrest a man
 on a charge so serious without sufficient evidence to support it, and
@@ -15378,7 +15381,7 @@ matter in his mind he had not the wit to say good evening in his usual
 cordial manner. Dick noticed the change of tone, but attached no
 importance to it.
 
-Now, the duller-wilted a man is, the more suspicious he is, and while
+Now, the duller-witted a man is, the more suspicious he is, and while
 Dick noticed a change of manner in Applebee which really existed, and
 attached no importance to it, Applebee noticed a change of manner in
 Dick which did not exist, and to which he attached immense importance.
@@ -15633,7 +15636,7 @@ word, it's comic.
 
 But I ask again, what is the meaning of Remington's disappearance? It
 means something. What? Is he hunting for the tiger, and has he got a
-clue? It seems to me that I mustn't lose time. That L500 belongs to
+clue? It seems to me that I mustn't lose time. That AL500 belongs to
 me, and I intend to have it.
 
 At eight o'clock I knocked at Dr. Pye's door, and a young woman opened
@@ -15685,7 +15688,7 @@ his life in study. His eyes are the colour of steel, and I should
 judge him to be possessed of great mesmeric power. His voice is slow
 and deliberate; his manners, also. A man less given to impulsive
 action I never gazed upon. I must not omit to mention that his hair is
-iron gray, and his face clean shaven.
+iron grey, and his face clean shaven.
 
 Holding one glass in his left hand he lifted another with his right,
 and mixed the liquids. Then he placed the glasses on the table, and
@@ -15702,7 +15705,7 @@ curiosity.
 
 After a silence which lasted two or three minutes he lifted his eyes
 from the glasses, and they met mine. I smiled and nodded at him. He
-did not return my salutation, and there was no change in his gray
+did not return my salutation, and there was no change in his grey
 face.
 
 In the matter of expression I never met a man who seemed so utterly
@@ -16477,7 +16480,7 @@ have never inquired why you struck him."
 knew. You held the candle above your head, and Abel Death saw your
 face, as the man we had murdered had done, and recognised you, as he
 had done. Why do you wince? We did murder him, comrade in crime, and
-are both 'liable to the law for the deed." Quietly as he spoke he
+are both liable to the law for the deed." Quietly as he spoke he
 seemed to take delight in associating Dr. Vinsen with himself in the
 ruthless work. "Your thought, when you struck Abel Death down, was
 that if he were allowed to go free he would be able to give evidence
@@ -16832,7 +16835,7 @@ looked around, distinguishing only the outlines of the buildings
 because of the darkness of the night. Almost on the instant the door
 of Samuel Boyd's house was violently opened, and a man rushed out,
 slamming it behind him. With such frantic haste did he run that he
-came into collision with the constable, and both were nearly upset. .
+came into collision with the constable, and both were nearly upset.
 They recovered their equilibrium simultaneously, and before the man
 could get his breath Applebee proved himself equal to the occasion.
 
@@ -17010,7 +17013,7 @@ Lambert. I'll go quietly." Lambert instantly released him. "Thank you.
 Handle that cane gently, and carry it upright, if you don't care to
 entrust me with it. You will know why soon. It is worth more than its
 weight in gold. Do you think I have been lying?" Lambert stroked his
-chin. "It is an unfair question, perhaps. Ill answer it myself. As I
+chin. "It is an unfair question, perhaps. I'll answer it myself. As I
 hope for mercy from our heavenly Judge I have spoken the truth."
 
 "Who were the men you left in the office? Don't say unless you like,
@@ -18257,7 +18260,7 @@ the cane in the hand of the supposed wax figure--which Mr. Remington
 also held, in order to completely carry out the deception--slipped
 from his grasp to the ground. The man who picked it up pressed, by
 accident, one of the raised letters in the knob of the cane. This
-pressure caused the figure 2 to spring up In a state of intense
+pressure caused the figure 2 to spring up. In a state of intense
 excitement the man drew his companion's attention to the circumstance,
 and made a reference to the notation, thus proving that he was
 familiar with it. He had pressed the letter B, the second in the
@@ -18474,7 +18477,7 @@ a name well known."
 "We are familiar with it in England. You have come to London on
 special business?"
 
-"In association with my esteemed _confrere_, Monsieur Lambert, I have
+"In association with my esteemed _confrA"re_, Monsieur Lambert, I have
 come to make the arrest of a notorious criminal."
 
 "You speak excellent English?"
@@ -18548,7 +18551,7 @@ of darkness man is sometimes a match."
 "You say it would be impossible to identify him with his clothes on.
 Would it be impossible to identify him with his clothes off?"
 
-"'Ah, no, that is a different matter. He is branded on the back, on
+"Ah, no, that is a different matter. He is branded on the back, on
 the breast."
 
 Mr. Marlow: "Is not my learned friend wandering from the case we are
@@ -18799,7 +18802,7 @@ Gracie: "That is the other man."
 
 Mr. Pallaret: "Take time. Look again. Be absolutely certain."
 
-Gracie: "I am. The other man in Dr. Pye."
+Gracie: "I am. The other man is Dr. Pye."
 
 Mr. Pallaret: "Still you may be mistaken?"
 
@@ -19050,7 +19053,7 @@ While restoratives were being given to Mr. Death I searched the house,
 and found a mass of account books and documents which had belonged to
 Mr. Samuel Boyd. I found also some articles of clothing which I
 believe will be found to have been worn by him. There was one complete
-suit of gray, and an overcoat with a fur collar. Lady Wharton will
+suit of grey, and an overcoat with a fur collar. Lady Wharton will
 perhaps be able to say whether the man who visited her in Bournemouth
 wore a suit of that colour and a coat of that description."
 
@@ -19354,29 +19357,27 @@ Produced by Charles Bowen from page images provided by
 Google Books. (New York Public Library)
 
 
-Updated editions will replace the previous one--the old editions
-will be renamed.
+Updated editions will replace the previous one--the old editions will
+be renamed.
 
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
 
-
-
-*** START: FULL LICENSE ***
+START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
@@ -19384,285 +19385,291 @@ PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
 To protect the Project Gutenberg-tm mission of promoting the free
 distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
 
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
+1.A. By reading or using any part of this Project Gutenberg-tm
 electronic work, you indicate that you have read, understand, agree to
 and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.B. "Project Gutenberg" is a registered trademark. It may only be
 used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
+agree to be bound by the terms of this agreement. There are a few
 things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
 
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E. Unless you have removed all references to Project Gutenberg:
 
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
 with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
 License terms from this work, or any files containing a part of this
 work or any other work associated with Project Gutenberg-tm.
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+1.E.5. Do not copy, display, perform, distribute or redistribute this
 electronic work, or any part of this electronic work, without
 prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7. Do not charge a fee for access to, viewing, displaying,
 performing, copying or distributing any Project Gutenberg-tm works
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
 
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
 
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
 
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
 
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
 
 1.F.
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1. Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
 Gutenberg Literary Archive Foundation, the owner of the Project
 Gutenberg-tm trademark, and any other party distributing a Project
 Gutenberg-tm electronic work under this agreement, disclaim all
 liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 DAMAGE.
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 defect in this electronic work within 90 days of receiving it, you can
 receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
 
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
 trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
 
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section 2. Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
 
 Volunteers and financial support to provide volunteers with the
 assistance they need are critical to reaching Project Gutenberg-tm's
 goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
+remain freely available for generations to come. In 2001, the Project
 Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
 
 For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
 
-Section 4.  Information about Donations to the Project Gutenberg
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
 freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
+array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
 
 The Foundation is committed to complying with the laws regulating
 charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
+States. Compliance requirements are not uniform and it takes a
 considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -19671,32 +19678,32 @@ approach us with offers to donate.
 
 International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States. U.S. laws alone swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
 
+Section 5. General Information About Project Gutenberg-tm electronic works.
 
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
 
 Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
 
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
 
 This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
